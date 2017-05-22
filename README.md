@@ -1,0 +1,2 @@
+# ZZJGetImageSizeFromURL
+ZZJGetImageSizeFromURL 根据图片URL获取图片的尺寸
